@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+    Sementaic HTML is when one gives meaning to HTML code.  A simple example of this is the <h1> element, which gives the text a header meaning.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+    Display: block takes up the full width available, with a new line before and after.  Display:inline takes up only as much width as it needs and does not force new lines.
 
 3. What are the 4 areas of the box model?
 
+    Content, padding, border, and margin.  The content area contians the actual content of the element.  Typially this is an image or text.  The padding area is between the outer edge of the content and the inner edge of the border.  The border sits between the outer edge of the padding and the inner edge of the margin.  Finally, the margin surrounds the CSS box and pushes against other CSS boxes in the layout.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+    Horizontal axis
+
 5. Explain why git is valuable to a team of developers.
+
+    It allows programmers reliable access to version control.  It helps in tracking changes that have occured within programing as well as identifying when bugs may have been introduced. It also allows multiple people to work on the same project by cloning a repo directly onto their computer.    
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
